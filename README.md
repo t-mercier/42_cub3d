@@ -16,7 +16,7 @@
 
 ## Team
 - **Timothée**: Focused on raycasting, developped the rendering part of the project.
-- **Alfa**: Handled the map parsing and related functionalities.
+- [**Alfa**](https://github.com/0alfa): Handled the map parsing and related functionalities.
 
 ## Features
 - Raycasting engine for 3D maze rendering.
