@@ -3,10 +3,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/t-mercier/42_cub3d/assets/94700601/39ca786a-6768-4ae7-96fb-ff0f108cd92b" alt="madhouseGH">
+      <img src="https://github.com/t-mercier/42_cub3d/assets/94700601/f1e11f6e-026f-4451-8f4e-0cf4688108eb" alt="madhouseGH">
     </td>
     <td>
-      <img src="https://github.com/t-mercier/42_cub3d/assets/94700601/4f5dc98b-c286-4949-a253-557ab59c6640" alt="bunker">
+      <img src="https://github.com/t-mercier/42_cub3d/assets/94700601/39ae137b-f3ed-4ed8-a92a-8bc4a2219f12" alt="bunker">
     </td>
   </tr>
 </table>
