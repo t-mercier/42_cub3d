@@ -29,10 +29,15 @@
 - C language and Raycasting principles.
 - 42 Minilib MLX graphics library.
 
+## Submodule Initialization and Update
+
+To  within this project, run the following command:
+
 ## Installation and Usage
 1. Clone the repository.
-2. Compile with `make`.
-3. Run with `./cub3D maps/<map>`.
+2. Initialize and update submodules `git submodule update --init`
+3. Compile with `make`
+4. Run with `./cub3D maps/<map>`
 
 ## Map Configuration
 - The `.cub` file defines the map layout, textures, and other settings.
