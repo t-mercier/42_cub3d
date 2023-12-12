@@ -34,8 +34,9 @@ OBJS 		= 		$(addprefix out/,$(SRCS:.c=.o))
 
 CFLAGS      +=		-I$(LIBFTDIR) -I$(MLXDIR)/include/MLX42
 
+
 ifeq ($(OS),Linux)
-LFLAGS 		= -lglfw3
+LFLAGS 		= -lglfw3 -lm 
 else
 LFLAGS		= -lglfw3 -lm -framework Cocoa -framework OpenGL -framework IOKit
 endif
