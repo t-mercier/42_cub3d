@@ -29,10 +29,6 @@
 - C language and Raycasting principles.
 - 42 Minilib MLX graphics library.
 
-## Submodule Initialization and Update
-
-To  within this project, run the following command:
-
 ## Installation and Usage
 1. Clone the repository.
 2. Initialize and update submodules `git submodule update --init`
